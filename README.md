@@ -30,4 +30,4 @@ Programo, diseño y aprendo en público. Me gusta que las cosas funcionen y que 
 
 ---
 
-<p align="center"><sub>El que no sueña nunca progresa.</sub></p>
+<p align="center"><sub>El que no sueña nunca progresa </sub></p>
